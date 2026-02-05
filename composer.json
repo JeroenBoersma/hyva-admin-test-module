@@ -9,9 +9,7 @@
         "hyva-themes/module-magento2-admin": ">=1.1.2"
     },
     "type": "magento2-module",
-    "license": [
-        "BSD-3-Clause"
-    ],
+    "license": "OSL-3.0",
     "autoload": {
         "files": [
             "registration.php"
